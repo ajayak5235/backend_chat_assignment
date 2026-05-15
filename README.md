@@ -1,6 +1,20 @@
 # backend_chat_assignment
 
 
+## ENV Example
+HOST=localhost
+USER=root
+PASSWORD=database_password
+DATABASE=chat_db
+PORT_DB=3306
+
+FIREBASE_PROJECT_ID= projectId
+FIREBASE_PRIVATE_KEY= privateKey
+FIREBASE_CLIENT_EMAIL= clientEmail
+FIREBASE_DATABASE_URL=databaseURL
+
+PORT=3000
+NODE_ENV=development
 
 ## Health Check
 http://localhost:3000/health
